@@ -11,4 +11,5 @@ Sample app for Android SearchView with simple transition animation
 # Screenshot compilation .Gif
 ![https://github.com/dononcharles/AndroidXMaterialSearchView/blob/master/screen](https://github.com/dononcharles/AndroidXMaterialSearchView/blob/master/screen/materialsearch.gif)
 
-Do not forget to Fork this project or just give one Star if you liked
+
+##Do not forget to Fork this project or just give one Star if you liked
